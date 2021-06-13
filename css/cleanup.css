@@ -17,3 +17,7 @@
 #wall .slick {
   display: none;
 }
+
+.parent > #tag-4 {
+  display: none;
+}
