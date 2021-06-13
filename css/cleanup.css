@@ -25,4 +25,7 @@
 #wall #tag-7 {
   display: none;
 }
- 
+
+#wall .parent #tag-7.slick {
+  display: none;
+}
